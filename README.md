@@ -9,6 +9,3 @@ This application is simple profile app which contain profile picture, email, Add
 
 
 
-This application looks like this:
-
-<img src="screen_shots.jpg" height:400 width:250>
